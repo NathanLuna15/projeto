@@ -4,4 +4,6 @@
 nesta aula aprendemos como usar o comando **GIT**
 tambem aprendemos como inviar nosso projeto para o **Githup**
 
+agora já sabemos a funcionalidade do arquivo README.md
+
 data da aula: *25/08/2025* ;)
